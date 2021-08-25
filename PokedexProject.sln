@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokedexProject", "PokedexProject.csproj", "{9028D092-5476-4DAF-8603-9AFE44836806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemonDLL", "..\pokemonDLL\pokemonDLL.csproj", "{48ABFDD7-F96D-4495-BA71-F5F1CBB41D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9028D092-5476-4DAF-8603-9AFE44836806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9028D092-5476-4DAF-8603-9AFE44836806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9028D092-5476-4DAF-8603-9AFE44836806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9028D092-5476-4DAF-8603-9AFE44836806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48ABFDD7-F96D-4495-BA71-F5F1CBB41D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ABFDD7-F96D-4495-BA71-F5F1CBB41D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ABFDD7-F96D-4495-BA71-F5F1CBB41D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ABFDD7-F96D-4495-BA71-F5F1CBB41D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21636FF9-088F-48F8-9ADA-A1A1914DB2B8}
+	EndGlobalSection
+EndGlobal
